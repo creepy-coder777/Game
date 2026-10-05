@@ -33,11 +33,10 @@ def game():
 
         if num == goal:
             print("You won")
-            break
+
 
         elif num == 7:
             print("You lose")
             break
-
 
 game()
